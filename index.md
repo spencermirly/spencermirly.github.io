@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Spencer's CS-HU 250 Page!
 
 You can use the [editor on GitHub](https://github.com/spencermirly/spencermirly.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
